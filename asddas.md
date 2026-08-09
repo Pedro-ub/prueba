@@ -1,16 +1,4 @@
-<p align="center">
-  <img src="./img/Logo-FIUBA.png" alt="Logo FIUBA">
-</p>
-
-# Memoria del trabajo final: "Whack-A-Mole" — Juego Electrónico de Reflejos y Objetivos Aleatorios
-
-<table align="center">
-  <tr>
-    <th>Autor</th>
-    <th>Padrón</th>
-    <th>Mail</th>
-  </tr>
-  <tr>
+rgergw
     <td>Labollita, Pedro</td>
     <td>112436</td>
     <td>[PENDIENTE: mail institucional]</td>
