@@ -1,6 +1,6 @@
 weodnouwe duqweui dhpweu hqdpuhp ew
 
-
+estp
 
 Funcionalidades adicionales incluidas:
 - Ranking persistente almacenado en EEPROM externa vía I2C.
