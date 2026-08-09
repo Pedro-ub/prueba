@@ -1,3 +1,4 @@
+holllll  
 
 | :---: | --- | :---: |
 | 0.1 | Esqueleto inicial de memoria (esta entrega) | 18/07/2026 |
